@@ -78,14 +78,19 @@ Je me suis en suite occuper de l’animation de mes page et notamment de la page
 ![Capture d'écran 2024-11-21 151326](https://github.com/user-attachments/assets/31a6e380-c3af-4fae-ac58-165c1b76ab36)
 ![Capture d'écran 2024-11-21 151418](https://github.com/user-attachments/assets/74025297-51b3-41a5-93c6-d6c4a19d38c7)
 
-#**Maquette**
+# **Maquette**
 
-##**Desktop**
+## **Desktop**
 
 ![maquette figma accueil](https://github.com/user-attachments/assets/ddc85c5a-bd8d-436b-bf0d-2e0ff94b0d4a)
-![Description de la jungle mobil](https://github.com/user-attachments/assets/0ea433bd-a458-4b43-a33b-5597df97631b)
 ![maquette figma page services](https://github.com/user-attachments/assets/ba8c4f63-5236-4d77-9a38-6c17bc1aa996)
+![maquette figma animaux de la savane](https://github.com/user-attachments/assets/333c980e-b426-481f-8d52-e49b52c2e941)
 
+## **Mobile**
+
+![Services Mobile](https://github.com/user-attachments/assets/87e38b1f-3cd1-4987-9ad2-8572bf9b3be1)
+![Page habitas mobile](https://github.com/user-attachments/assets/805697cd-d0f8-4696-a45b-fc0e186d1a2b)
+![Description de la jungle mobil](https://github.com/user-attachments/assets/bc341422-4a54-4d69-841d-8b98d101764c)
 
 une fois le design trouver et la maquette du site terminer je suis passer a la parte frontend 
 
