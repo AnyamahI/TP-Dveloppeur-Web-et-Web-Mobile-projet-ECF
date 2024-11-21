@@ -1,22 +1,6 @@
 ﻿# TP-Dveloppeur-Web-et-Web-Mobile-projet-ECF
 lien maquette figma : https://www.figma.com/design/OTKnClL6xmO7X2aKjn1BcQ/Zoo-Arcadia?node-id=0-1&node-type=canvas&t=xhtGR7IrPz86kutD-0
 
-![Capture d’écran 2024-11-12 171728.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/4f81ad02-725c-4f41-a467-5709e42ea164/Capture_dcran_2024-11-12_171728.png)
-
-**Diagramme des Cas d'utilisations**
-
-![cas_utilisation1.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/e6b5ec35-cf34-48f9-9040-4a351e7c7b37/cas_utilisation1.png)
-
-![cas_utilisation4.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/8e34308b-0285-45b0-8bf7-d94f3c998da7/cas_utilisation4.png)
-
-![cas_utilisation2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/e863d38e-5aa0-4dad-9aaf-d60ed6204da7/cas_utilisation2.png)
-
-![cas_utilisation5.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/b96fd3f7-b359-4198-846d-4f2375f20521/cas_utilisation5.png)
-
-![cas_utilisation3.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/efd17d82-d2ff-4939-a493-9548e4d47b88/cas_utilisation3.png)
-
-![cas_utilisation6.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/fa8adbf1-8041-47e9-a444-aded052471bf/cas_utilisation6.png)
-
 **Modélisation des données**
 
 ![diagram.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/6be79311-25b8-4f1c-b5c3-9e5fea2d4403/diagram.png)
@@ -112,6 +96,7 @@ Vidéo d’emonstrative
 
 une fois le design trouver et la maquette du site terminer je suis passer a la parte frontend 
 
+
 # Frontend
 
 J’ai décider des diviser cette partie en plusieurs étape, tout d'abord, toute la partie physique du site avec **HTML** et **CSS** puis j’ai rajouter de l’animation avec le **JavaScript** et le framework **Bootstrap.**
@@ -127,3 +112,13 @@ J’ai importer mes icones grâce a la librairie “fontawesome” (https://font
 Pour integrer mes blob dans mon site j’ai utiliser une fonction sur figma qui me prmet d’exporter n’importe quelle section de ma maquette sous format, PDF , PNG, SVG, et JPG.
 
 ![Capture d'écran 2024-11-14 183212.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/895af0a1-6ad9-4828-9757-446fd564ae18/Capture_dcran_2024-11-14_183212.png)
+
+**Diagramme des Cas d'utilisations**
+![cas_utilisation6](https://github.com/user-attachments/assets/e7c1a981-6a01-4cf0-9067-0560667012fe)
+![cas_utilisation5](https://github.com/user-attachments/assets/96539904-acf7-4fd9-b24d-2f6ba9732076)
+![cas_utilisation4](https://github.com/user-attachments/assets/ce8429eb-630d-4104-a11c-213cba106319)
+![cas_utilisation3](https://github.com/user-attachments/assets/920ec133-4a23-4272-8777-0066dc798fed)
+![cas_utilisation2](https://github.com/user-attachments/assets/2e6298a3-75fb-4166-aaec-96ff1ec1d18e)
+![cas_utilisation1](https://github.com/user-attachments/assets/7c0cc9b6-7b92-439c-bff1-f2188249932b)
+
+
