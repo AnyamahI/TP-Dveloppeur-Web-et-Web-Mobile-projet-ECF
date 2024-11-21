@@ -32,6 +32,8 @@ L’intelligence artificiel, notamment ChatGPT ma secondais dans cette tache et 
 
 De plus je me suis servis de l’intelligence artificiel pour me générer un logo qui pour moi représenter parfaitement les valeur et l’histoire du zoo ; une hermine (animal totem de la bretagne, que nous pouvons retrouver dans la foret de Brocéliande) bretonne coiffer d’une couronne, inspiration des légendes du Roi Arthur, le logo est noir et blanc, inspiration du drapeau breton
 
+[charte graphique projet arcadia.pdf](https://github.com/user-attachments/files/17849732/charte.graphique.projet.arcadia.pdf)
+
 ![Logo_ArcadiaV2(1)](https://github.com/user-attachments/assets/a55e86df-a127-497a-ab05-859fb2c9c4c8)
 ![Capture d'écran 2024-11-13 202258](https://github.com/user-attachments/assets/79152dc0-dfe5-4b1d-8a76-828ecc3e4d44)
 ![Capture d'écran 2024-11-21 150550](https://github.com/user-attachments/assets/f51778d6-1538-4edb-9464-d780286b7242)
