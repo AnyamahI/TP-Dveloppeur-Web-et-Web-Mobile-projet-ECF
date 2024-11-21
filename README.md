@@ -78,16 +78,14 @@ Je me suis en suite occuper de l’animation de mes page et notamment de la page
 ![Capture d'écran 2024-11-21 151326](https://github.com/user-attachments/assets/31a6e380-c3af-4fae-ac58-165c1b76ab36)
 ![Capture d'écran 2024-11-21 151418](https://github.com/user-attachments/assets/74025297-51b3-41a5-93c6-d6c4a19d38c7)
 
+#**Maquette**
 
-![maquette figma Page animaux.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/4471d455-e66d-4fa9-a0e9-80377690beaa/maquette_figma_Page_animaux.png)
+##**Desktop**
 
-![maquette figma animaux des marais.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/4b890f32-d468-43d4-9967-3993ffe758b5/maquette_figma_animaux_des_marais.png)
+![maquette figma accueil](https://github.com/user-attachments/assets/ddc85c5a-bd8d-436b-bf0d-2e0ff94b0d4a)
+![Description de la jungle mobil](https://github.com/user-attachments/assets/0ea433bd-a458-4b43-a33b-5597df97631b)
+![maquette figma page services](https://github.com/user-attachments/assets/ba8c4f63-5236-4d77-9a38-6c17bc1aa996)
 
-![maquette figma animaux jungle.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/1a120afa-78bd-4b84-b414-f3d2207561f0/maquette_figma_animaux_jungle.png)
-
-![maquette figma animaux de la savane.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/a9af499d-309b-47ea-99cb-394bb67d497f/maquette_figma_animaux_de_la_savane.png)
-
-![maquette fima page contacte.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/c79f7bc1-8ad4-4c6d-b57e-73f2eed07d3c/maquette_fima_page_contacte.png)
 
 une fois le design trouver et la maquette du site terminer je suis passer a la parte frontend 
 
