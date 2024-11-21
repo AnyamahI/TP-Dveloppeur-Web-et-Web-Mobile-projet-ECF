@@ -111,7 +111,8 @@ Pour integrer mes blob dans mon site j’ai utiliser une fonction sur figma qui 
 
 ![Capture d'écran 2024-11-14 183212.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/895af0a1-6ad9-4828-9757-446fd564ae18/Capture_dcran_2024-11-14_183212.png)
 
-##**Diagramme des Cas d'utilisations**
+## **Diagramme des Cas d'utilisations**
+
 ![cas_utilisation6](https://github.com/user-attachments/assets/e7c1a981-6a01-4cf0-9067-0560667012fe)
 ![cas_utilisation5](https://github.com/user-attachments/assets/96539904-acf7-4fd9-b24d-2f6ba9732076)
 ![cas_utilisation4](https://github.com/user-attachments/assets/ce8429eb-630d-4104-a11c-213cba106319)
@@ -119,4 +120,6 @@ Pour integrer mes blob dans mon site j’ai utiliser une fonction sur figma qui 
 ![cas_utilisation2](https://github.com/user-attachments/assets/2e6298a3-75fb-4166-aaec-96ff1ec1d18e)
 ![cas_utilisation1](https://github.com/user-attachments/assets/7c0cc9b6-7b92-439c-bff1-f2188249932b)
 
+## Modélisation des données
 
+![Capture d'écran 2024-11-21 142451](https://github.com/user-attachments/assets/8f9764cb-9ddb-4cfc-ba81-ebdf512ab3b9)
