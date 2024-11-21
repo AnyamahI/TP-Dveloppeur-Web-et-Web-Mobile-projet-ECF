@@ -65,9 +65,9 @@ Et également le widjet : ****
 
 J’ai suivis les consigne qui mont été demander de respecter dans pour réaliser mon ECF et j’ai donc commencer par crée ma page d’accueil avec toutes les infos demander. J’ai essayer de travailler le plus possible en utilisant une option très utile appeler “create component” que nous pouvons retrouver dans la bar d’outil a droite de l'écart. Cette fonction me permet de crée des  “frame” qui me permet de  réutiliser des éléments de design dans différents endroit en regroupent plusieurs élément entre eux, comme pour mon header par exemple. ( le logo a changer entre la réalisation de la maquette et le projet final)
 
-![header figma .png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/81d80a8d-7dfb-4a14-854d-026219db036c/header_figma_.png)
+![Capture d'écran 2024-11-21 150924](https://github.com/user-attachments/assets/a65423be-8568-40c5-9362-34eb1e6aece6)
+![create component ecf](https://github.com/user-attachments/assets/768c9291-5986-4b3c-b1d8-eb6025c41b1f)
 
-![create component ecf.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/56ec346e-3ea3-4f8e-bc17-f9ae209e085b/create_component_ecf.png)
 
 Lors de la création de ma maquette je me suis inspirer de design du site du zoo de Beauval, notamment des blob, utiliser comme image présenter leurs animaux. Je suis donc aller sur le site “blob maker” (https://www.blobmaker.app/) pour générer des blob et intégrer mes animaux dans ma maquette.
 
@@ -75,13 +75,9 @@ Lors de la création de ma maquette je me suis inspirer de design du site du zoo
 
 Je me suis en suite occuper de l’animation de mes page et notamment de la page habitat ou chaque section s’allonger et laisse place a une description et aussi montre chaque animaux présent dans cette zone, chaque blob d’animaux est cliquable et permet a l’utilisateur daller directement sur la page de l’animal sélectionner où il peut, à partir de la, avoir toutes les information nécessaire a sont sujet.  Pour cela j’ai utiliser le fonction prototype dans le panneaux de commander a droite de l’écran. J’ai en suite crée deux fram qui me permettes de faire une transition d’une frame a l'autre en cliquant dessus avec une animation linéaire vers le bas. 
 
-![Capture d'écran 2024-11-14 175428.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/e25008aa-e098-42c3-a740-85e276c89f17/Capture_dcran_2024-11-14_175428.png)
+![Capture d'écran 2024-11-21 151326](https://github.com/user-attachments/assets/31a6e380-c3af-4fae-ac58-165c1b76ab36)
+![Capture d'écran 2024-11-21 151418](https://github.com/user-attachments/assets/74025297-51b3-41a5-93c6-d6c4a19d38c7)
 
-![Capture d'écran 2024-11-14 175459.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/5664e2da-f00a-4b8a-b7c2-e960baa56809/Capture_dcran_2024-11-14_175459.png)
-
-Vidéo d’emonstrative 
-
-![maquette figma page acceuil.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/31186278-3288-4e22-bced-9fa37d64508e/maquette_figma_page_acceuil.png)
 
 ![maquette figma Page animaux.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/4471d455-e66d-4fa9-a0e9-80377690beaa/maquette_figma_Page_animaux.png)
 
