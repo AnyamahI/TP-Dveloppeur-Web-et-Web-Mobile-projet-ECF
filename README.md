@@ -32,13 +32,12 @@ L’intelligence artificiel, notamment ChatGPT ma secondais dans cette tache et 
 
 De plus je me suis servis de l’intelligence artificiel pour me générer un logo qui pour moi représenter parfaitement les valeur et l’histoire du zoo ; une hermine (animal totem de la bretagne, que nous pouvons retrouver dans la foret de Brocéliande) bretonne coiffer d’une couronne, inspiration des légendes du Roi Arthur, le logo est noir et blanc, inspiration du drapeau breton
 
-![Test charte graphique.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/f66eeae6-5f25-4cfd-8859-a4e6db315f66/Test_charte_graphique.png)
-
-![eco_right.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/345d47d2-b34b-4a62-9f1e-28bf93d657ce/eco_right.jpg)
-
-![Logo_Arcadia_Transparent_V2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/4b311dac-092b-437f-a08c-b233145ec4f1/Logo_Arcadia_Transparent_V2.png)
+![Logo_ArcadiaV2(1)](https://github.com/user-attachments/assets/a55e86df-a127-497a-ab05-859fb2c9c4c8)
+![Capture d'écran 2024-11-13 202258](https://github.com/user-attachments/assets/79152dc0-dfe5-4b1d-8a76-828ecc3e4d44)
+![Capture d'écran 2024-11-21 150550](https://github.com/user-attachments/assets/f51778d6-1538-4edb-9464-d780286b7242)
 
 ### Etape 3 : choix de l’outils de design
+
 
 Pour maquetter et mettre en forme mon site j’ai choisi d’utiliser **Figma**, pour plusieurs raisons : 
 
@@ -113,7 +112,7 @@ Pour integrer mes blob dans mon site j’ai utiliser une fonction sur figma qui 
 
 ![Capture d'écran 2024-11-14 183212.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d42dc83-10e0-4c6b-a8f8-a1468fb29a89/895af0a1-6ad9-4828-9757-446fd564ae18/Capture_dcran_2024-11-14_183212.png)
 
-**Diagramme des Cas d'utilisations**
+##**Diagramme des Cas d'utilisations**
 ![cas_utilisation6](https://github.com/user-attachments/assets/e7c1a981-6a01-4cf0-9067-0560667012fe)
 ![cas_utilisation5](https://github.com/user-attachments/assets/96539904-acf7-4fd9-b24d-2f6ba9732076)
 ![cas_utilisation4](https://github.com/user-attachments/assets/ce8429eb-630d-4104-a11c-213cba106319)
