@@ -119,8 +119,8 @@ Avoir un éditeur de code.
 ### **Installation :**
 
 1. **Télécharger et Installer XAMPP**
-    - Téléchargez XAMPP depuis le site officiel.
-    - Suivez les instructions d'installation pour configurer XAMPP sur votre système.
+- Téléchargez XAMPP depuis le site officiel.
+- Suivez les instructions d'installation pour configurer XAMPP sur votre système.
       
 2. **Configurer Apache**
   - Ouvrez le dossier **XAMPP** puis dossier **MySQL** et le fichier **Bin**
@@ -142,22 +142,22 @@ pid_file="mysql.pid"
 ```
 
 3. **Décompresser le Projet**
-  - Décompressez le dossier `arcadia` dans le répertoire `htdocs` de XAMPP. Le chemin par défaut est généralement `C:         \xampp\htdocs`.
+  - Décompressez le dossier `arcadia` dans le répertoire `htdocs` de XAMPP. Le chemin par défaut est généralement `C:\xampp\htdocs`.
   
 4. **Configurer la Base de Données :**
-    - Ouvrez le panneau de contrôle XAMPP et démarrez les services Apache et MySQL.
-    - Accédez à phpMyAdmin via votre navigateur.
-    - Créez une nouvelle base de données en cliquant sur "Bases de données" et nommez là `zoo_arcadia`.
+- Ouvrez le panneau de contrôle XAMPP et démarrez les services Apache et MySQL.
+- Accédez à phpMyAdmin via votre navigateur.
+- Créez une nouvelle base de données en cliquant sur "Bases de données" et nommez là `zoo_arcadia`.
         
-        **Importer le fichier** `zoo_arcadia.sql` **:**
+  **Importer le fichier** `zoo_arcadia.sql` **:**
         
-        - Dans phpMyAdmin, sélectionnez la base de données `zoo_arcadia`.
-        - Cliquez sur l'onglet "Importer".
-        - Sélectionnez le fichier `zoo_arcadia.sql` dans le dossier du projet et cliquez sur "Exécuter".
+      - Dans phpMyAdmin, sélectionnez la base de données `zoo_arcadia`.
+      - Cliquez sur l'onglet "Importer".
+      - Sélectionnez le fichier `zoo_arcadia.sql` dans le dossier du projet et cliquez sur "Exécuter".
     
-   5. **Configurer le Fichier de Connexion**
+5. **Configurer le Fichier de Connexion**
     
-    - Assurez-vous que le fichier de configuration PHP (`config.php`) contient les bonnes informations pour se connecter     à la base de données MySQL :
+- Assurez-vous que le fichier de configuration PHP (`config.php`) contient les bonnes informations pour se connecter     à la base de données MySQL :
         
         ```php
         <?php
